@@ -23,3 +23,6 @@ env：环境 <br/>
 model：分类器<br/>
 state：管理两个agent的状态特征<br/>
 train & test & main<br/>
+<br/>
+.pkl
+预训练好的agent1模型
